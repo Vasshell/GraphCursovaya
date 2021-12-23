@@ -1,0 +1,7 @@
+﻿  Render.cpp
+I:\grafika_lab2-master\OpenGLrememberProj\Render.cpp(116,31): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+I:\grafika_lab2-master\OpenGLrememberProj\Render.cpp(116,40): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+I:\grafika_lab2-master\OpenGLrememberProj\Render.cpp(116,49): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+I:\grafika_lab2-master\OpenGLrememberProj\Render.cpp(326,28): warning C4018: <: несоответствие типов со знаком и без знака
+I:\grafika_lab2-master\OpenGLrememberProj\Render.cpp(317): warning C4172: возвращение адреса локальной или временной переменной : normal
+  OpenGLrememberProj.vcxproj -> I:\grafika_lab2-master\Debug\OpenGLrememberProj.exe
